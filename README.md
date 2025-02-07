@@ -1,1 +1,1 @@
-# FOOD-OREDR-WEB-MERN-
+Developed a food delivery web application similar to Zomato, tailored specifically for a particular restaurant. The platform allows users to browse the restaurant's menu, view detailed food descriptions, and place orders online. Built using the MERN (MongoDB, Express.js, React, Node.js) stack, ensuring a responsive and dynamic user experience
